@@ -1,6 +1,6 @@
 # FilterOdd
 
-Ecrire une méthode, nommée filter, qui retourne uniquement les valeurs impaires d’un tableau d’entier.
+Ecrire une méthode, nommée filter, qui remplace les valeurs paires d'un tableau par 0.
 
 Rappel des commandes junit :
 
